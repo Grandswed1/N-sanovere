@@ -1,0 +1,14 @@
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\bin\Debug\net7.0\näsanöverE.exe
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\bin\Debug\net7.0\näsanöverE.deps.json
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\bin\Debug\net7.0\näsanöverE.runtimeconfig.json
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\bin\Debug\net7.0\näsanöverE.dll
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\bin\Debug\net7.0\näsanöverE.pdb
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\obj\Debug\net7.0\näsanöverE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\obj\Debug\net7.0\näsanöverE.AssemblyInfoInputs.cache
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\obj\Debug\net7.0\näsanöverE.AssemblyInfo.cs
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\obj\Debug\net7.0\näsanöverE.csproj.CoreCompileInputs.cache
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\obj\Debug\net7.0\näsanöverE.dll
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\obj\Debug\net7.0\refint\näsanöverE.dll
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\obj\Debug\net7.0\näsanöverE.pdb
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\obj\Debug\net7.0\näsanöverE.genruntimeconfig.cache
+C:\Users\elliot.rydell\Documents\Programmering2\Näsanovere\näsanöverE\obj\Debug\net7.0\ref\näsanöverE.dll
